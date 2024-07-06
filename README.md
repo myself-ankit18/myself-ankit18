@@ -8,7 +8,7 @@ Frontend Development: Proficient in HTML and CSS, with a focus on building respo
 
 Backend Development: Eager to delve into backend technologies in the future to complete my journey as a Full Stack Developer.
 
-Programming Languages: Familiar with C language and have a basic understanding of Java.
+Programming Languages: Familiar with C, Python and have a basic understanding of Java.
 
 CAD Designing: I also have a keen interest in CAD designing, where I explore my creativity and design skills.
 
