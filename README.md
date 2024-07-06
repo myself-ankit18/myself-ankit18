@@ -1,7 +1,7 @@
 # Hey There ! My name is Ankit Kumar Dam
 
 ## About Me
-I'm currently a first-year Computer Science Engineering student with a passion for frontend development and a keen interest in becoming a Full Stack Developer. My journey in the field of technology has just begun, and I'm excited to learn and grow in this dynamic industry.
+I'm currently a second-year Computer Science Engineering student with a passion for frontend development and a keen interest in becoming a Full Stack Developer. My journey in the field of technology has just begun, and I'm excited to learn and grow in this dynamic industry.
 
 ## Skills
 Frontend Development: Proficient in HTML and CSS, with a focus on building responsive and visually appealing web interfaces. Currently expanding my skill set by diving into JavaScript to add interactivity and functionality to web applications.
