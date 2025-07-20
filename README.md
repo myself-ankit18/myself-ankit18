@@ -10,7 +10,6 @@ Backend Development: Eager to delve into backend technologies in the future to c
 
 Programming Languages: Familiar with C, Python and have a basic understanding of Java.
 
-CAD Designing: I also have a keen interest in CAD designing, where I explore my creativity and design skills.
 
 ## Projects
 --> Uber Interface Clone: https://uber-qd5oy0iqn-ankit-kumar-dams-projects.vercel.app/
