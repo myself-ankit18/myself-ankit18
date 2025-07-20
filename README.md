@@ -1,29 +1,15 @@
-# Hey There ! My name is Ankit Kumar Dam
+<h1 align="center">Hi 👋, I'm Ankit Kumar Dam</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## About Me
-I'm currently a second-year Computer Science Engineering student with a passion for frontend development and a keen interest in becoming a Full Stack Developer. My journey in the field of technology has just begun, and I'm excited to learn and grow in this dynamic industry.
+- 🌱 I’m currently learning **Backend Development**
 
-## Skills
-Frontend Development: Proficient in HTML and CSS, with a focus on building responsive and visually appealing web interfaces. Currently expanding my skill set by diving into JavaScript to add interactivity and functionality to web applications.
+- 📫 How to reach me **ankitkumardam97@gmail.com**
 
-Backend Development: Eager to delve into backend technologies in the future to complete my journey as a Full Stack Developer.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ankit kumar dam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit kumar dam" height="30" width="40" /></a>
+<a href="https://instagram.com/iamankit817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamankit817" height="30" width="40" /></a>
+</p>
 
-Programming Languages: Familiar with C, Python and have a basic understanding of Java.
-
-
-## Projects
---> Uber Interface Clone: https://uber-qd5oy0iqn-ankit-kumar-dams-projects.vercel.app/
-
-A project where I recreated the user interface of the Uber app using HTML and CSS.
-
---> Netflix Interface Clone: https://netflix-q3ma-k691q13mi-ankit-kumar-dams-projects.vercel.app/
-
-Another project where I replicated the user interface of the Netflix website using HTML and CSS.
-
-## Goals
-My ultimate goal is to become a proficient Full Stack Developer, capable of building end-to-end web applications that deliver seamless user experiences. I'm excited about exploring backend development in the future and expanding my skills to encompass the entire software development lifecycle.
-
-## Connect with Me
-I'm always open to collaborations, discussions, and learning opportunities. Feel free to connect with me on LinkedIn. Let's connect and explore the possibilities of working together on exciting projects or sharing knowledge in the tech community.
-
-# Thank you for visiting my GitHub repository! 🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
