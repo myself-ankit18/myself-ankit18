@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Dam</h1>
-<h3 align="center">Frontend Developer | MERN Stack Learner | Tech Enthusiast from Howrah, WB 🇮🇳</h3>
+<h3 align="center">Frontend Developer | MERN Stack Learner </h3>
 
 ---
 
