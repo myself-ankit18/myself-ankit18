@@ -111,8 +111,8 @@ const ankit = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Project 1** | InterviewGenie | [Demo]([#](https://interviewgenieakd.vercel.app/)) • [Code]([#](https://github.com/myself-ankit18/interviewAI)) |
-| **Project 2** | GuardianLink | [Demo]([#](https://guardian-link-byte-wise.vercel.app/)) • [Code]([#](https://github.com/myself-ankit18/GuardianLink-ByteWise)) |
+| **Project 1** | InterviewGenie | [Demo](https://interviewgenieakd.vercel.app/) • [Code](https://github.com/myself-ankit18/interviewAI) |
+| **Project 2** | GuardianLink | [Demo](https://guardian-link-byte-wise.vercel.app/) • [Code](https://github.com/myself-ankit18/GuardianLink-ByteWise) |
 
 </div>
 
