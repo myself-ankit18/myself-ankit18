@@ -21,7 +21,7 @@ const ankit = {
     title: "Computer Science Engineering Student",
     institution: "Academy of Technology",
     currentYear: "Third Year",
-    achievement: "🏆 GATE CS 2024 - AIR 1448 (Score: 678)",
+    achievement: "🏆 GATE CS 2026 - AIR 1448 (Score: 678)",
     location: "India 🇮🇳",
     
     currentFocus: [
